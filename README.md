@@ -9,7 +9,7 @@ Vision servoing based object following and obstacle avoidance using the Baxter r
 
 ## Introduction
 
-A visual servoing control method enhanced by an obstacle avoidance strategy using potential based function. The solution require both relative bearing measurements, which acquire from the RGB-camera by color-based detection method through OpenCV. Eye-in-hand sensor arrangement can provide a relative high accuracy and avoid vision collision. We also validate our approach by implementation on the Baxter robot.
+A visual servoing control method enhanced by an obstacle avoidance strategy using potential based function. The solution requires relative bearing measurements, which acquire from the RGB-camera by color-based detection method through OpenCV. Eye-in-hand sensor arrangement can provide a relative high accuracy and avoid vision collision. We also validate our approach by implementation on the Baxter robot.
 
 ## Usage
 
