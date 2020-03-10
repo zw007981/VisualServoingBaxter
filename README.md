@@ -52,7 +52,8 @@ rosrun VisualServoingBaxter tracing.py
 ## Result
 
 Trajectories of the object and the Baxter robot.
-<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/trajectory1.png" width="450">
 
-<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/trajectory2.png" width="450">
+<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/trajectory1.png">
+
+<img src="https://github.com/zw007981/VisualServoingBaxter/blob/master/trajectory2.png">
 
