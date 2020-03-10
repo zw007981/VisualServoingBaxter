@@ -40,13 +40,13 @@ rosrun image_view image_view image:=/cameras/left_hand_camera/image
 5. Run the tracking part.
 
 ``` 
-rosrun VisualServoingBaxter tracing.py
+rosrun VisualServoingBaxter tracking.py
 ```
 
 6. Run the following part.
 
 ``` 
-rosrun VisualServoingBaxter tracing.py
+rosrun VisualServoingBaxter following.py
 ```
 
 ## Result
